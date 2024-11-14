@@ -2,7 +2,7 @@
 
 # CDDA_Taller2
 
-Este repositorio contiene el código correspondiente al Taller 2 de la asignatura **Ciencia de Datos Aplicada**.
+Este repositorio contiene el código correspondiente al Taller 2 de la asignatura.
 
 ## Autores
 
@@ -11,7 +11,7 @@ Este repositorio contiene el código correspondiente al Taller 2 de la asignatur
 
 ## Descripción
 
-El proyecto aborda [descripción breve del objetivo del taller, por ejemplo: "el análisis de datos de ventas para identificar patrones y tendencias"].
+El proyecto aborda el analisis de datos y debe ejecutarse en el orden establecido de 1 a 5.
 
 ## Contenido del Repositorio
 
