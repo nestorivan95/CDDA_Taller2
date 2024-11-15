@@ -17,7 +17,9 @@ El proyecto aborda el analisis de datos y debe ejecutarse en el orden establecid
 
 El repositorio incluye los siguientes archivos y directorios:
 
-- 1_entendimiento_preparacion.ipynb: 
+- 1_entendimiento_preparacion.ipynb:
+  Este cuaderno está enfocado en la comprensión y preparación de los datos necesarios para el proyecto. Incluye una exploración inicial de los datos, limpieza de los mismos, y un análisis exploratorio para identificar patrones, valores faltantes y posibles problemas. El objetivo es asegurarse de que los datos estén listos y en un formato adecuado para el entrenamiento del modelo.
+
 - 2_entrenamiento_modelo.ipynb: 
 - 3_analisis_resultados_modelo.ipynb: 
 - 4_generación_valor.ipynb: 
